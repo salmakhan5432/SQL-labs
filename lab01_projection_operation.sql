@@ -1,7 +1,3 @@
--- File: projection_operation.sql
--- Author: Salma Khan
--- Description: Contains projection operation queries on EMPLOYEES and DEPARTMENTS tables in Oracle SQL
-
 -- =============================
 -- DEPARTMENTS Table Queries
 -- ==========================
