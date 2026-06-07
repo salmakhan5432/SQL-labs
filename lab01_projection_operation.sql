@@ -1,6 +1,8 @@
 -- =============================
 -- DEPARTMENTS Table Queries
--- ==========================
+-- Database Systems Lab
+-- =============================
+
 
 -- This query Show the structure of the DEPARTMENTS table (use describe command).
 DESCRIBE departments;

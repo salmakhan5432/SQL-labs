@@ -1,5 +1,6 @@
 -- =========================================
--- Lab 02: Selection Operation & ORDER BY
+-- Week 2 - Selection Operation & ORDER BY
+-- Database Systems Lab
 -- =========================================
 
 
