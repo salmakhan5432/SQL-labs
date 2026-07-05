@@ -1,4 +1,4 @@
-# Week 04 - Joins
+# Week 03 - Joins
 
 ## Overview
 
@@ -7,7 +7,7 @@ This lab focuses on retrieving data from multiple tables using SQL joins. The ex
 ## Files
 
 * `solutions.sql` — Lab solutions
-* `Week4-Joins.pdf` — Lab instructions (with instructor permission)
+* `Week03-Joins.pdf` — Lab instructions (with instructor permission)
 
 ## Concepts Covered
 
