@@ -1,6 +1,7 @@
 -- =====================================================
--- Week 3 - Joins
 -- Database Systems Lab
+-- Week 03 - Joins
+-- Department of Software Engineering, Faculty of Engineering & Technology, UoS
 -- =====================================================
 
 

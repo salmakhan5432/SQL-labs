@@ -1,6 +1,7 @@
 -- =========================================
--- Week 2 - Selection Operation & ORDER BY
 -- Database Systems Lab
+-- Week 02 - Selection Operation & ORDER BY
+-- Department of Software Engineering, Faculty of Engineering & Technology, UoS
 -- =========================================
 
 

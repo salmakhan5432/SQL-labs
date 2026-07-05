@@ -1,7 +1,8 @@
--- =============================
--- DEPARTMENTS Table Queries
+-- =====================================================
 -- Database Systems Lab
--- =============================
+-- Week 01 - SQL Projection
+-- Department of Software Engineering, Faculty of Engineering & Technology, UoS
+-- =====================================================
 
 
 -- This query Show the structure of the DEPARTMENTS table (use describe command).

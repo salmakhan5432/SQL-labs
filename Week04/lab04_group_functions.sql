@@ -1,8 +1,7 @@
 -- =====================================================
 -- Database Systems Lab
 -- Week 04 - Group Functions
--- Department of Software Engineering
--- University of Sindh
+-- Department of Software Engineering, Faculty of Engineering & Technology, UoS
 -- =====================================================
 
 /*=======================================================
