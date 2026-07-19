@@ -7,7 +7,7 @@ This lab focuses on SQL subqueries. The exercises demonstrate how to retrieve da
 ## Files
 
 * `lab05_subqueries.sql` — SQL solutions for the lab exercises
-* `Week6-Subqueries.pdf` — Lab instructions (with instructor permission)
+* `Week5-Subqueries.pdf` — Lab instructions (with instructor permission)
 
 ## Concepts Covered
 
