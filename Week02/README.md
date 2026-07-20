@@ -7,7 +7,7 @@ This lab focuses on filtering and sorting data using SQL. The exercises cover co
 ## Files
 
 - `lab02_selection_orderby.sql` — Lab solutions
-- `lab02.pdf` — Lab instructions (with instructor permission)
+- `Week02.pdf` — Lab instructions (with instructor permission)
 
 ## Concepts Covered
 

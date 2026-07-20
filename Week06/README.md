@@ -7,7 +7,7 @@ This lab focuses on SQL Data Manipulation Language (DML) statements. The exercis
 ## Files
 
 * `lab06_dml.sql` — SQL solutions for the lab exercises
-* `Week06-DML.pdf` — Lab instructions (with instructor permission)
+* `Week06.pdf` — Lab instructions (with instructor permission)
 
 ## Concepts Covered
 

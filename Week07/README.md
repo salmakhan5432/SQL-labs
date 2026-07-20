@@ -7,7 +7,7 @@ This lab focuses on SQL Views. The exercises demonstrate how to create, retrieve
 ## Files
 
 * `lab07_views.sql` — SQL solutions for the lab exercises
-* `Week8-Views.pdf` — Lab instructions (with instructor permission)
+* `Week7.pdf` — Lab instructions (with instructor permission)
 
 ## Concepts Covered
 

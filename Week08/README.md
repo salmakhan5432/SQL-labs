@@ -7,7 +7,7 @@ This lab focuses on SQL Data Definition Language (DDL). The exercises demonstrat
 ## Files
 
 * `lab08_ddl.sql` — SQL solutions for the lab exercises
-* `Week9-DDL.pdf` — Lab instructions (with instructor permission)
+* `Week08.pdf` — Lab instructions (with instructor permission)
 
 ## Concepts Covered
 

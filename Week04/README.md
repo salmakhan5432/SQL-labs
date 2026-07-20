@@ -7,7 +7,7 @@ This lab focuses on SQL aggregate functions and grouping data. The exercises dem
 ## Files
 
 * `lab04_group_functions.sql` — SQL solutions for the lab exercises
-* `lab04.pdf` — Lab instructions (with instructor permission)
+* `Week04.pdf` — Lab instructions (with instructor permission)
 
 ## Concepts Covered
 

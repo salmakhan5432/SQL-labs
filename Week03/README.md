@@ -7,7 +7,7 @@ This lab focuses on retrieving data from multiple tables using SQL joins. The ex
 ## Files
 
 * `Lab03_joins.sql` — Lab solutions
-* `lab03.pdf` — Lab instructions (with instructor permission)
+* `Week03.pdf` — Lab instructions (with instructor permission)
 
 ## Concepts Covered
 

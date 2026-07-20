@@ -7,7 +7,7 @@ This lab introduces basic SQL queries using the `DEPARTMENTS` and `EMPLOYEES` ta
 ## Files
 
 - `lab01_projection_operation.sql` — Lab solutions
-- `lab01.pdf` — Lab instructions (with instructor permission)
+- `Week01.pdf` — Lab instructions (with instructor permission)
 
 ## Concepts Covered
 
