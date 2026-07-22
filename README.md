@@ -102,12 +102,12 @@ psql -U your_username -d your_database -f Week1/lab01_projection_operation.sql
 | Week 1 | Projection                   | ✅ Complete  |
 | Week 2 | Selection                    | ✅ Complete  |
 | Week 3 | Joins                        | ✅ Complete  |
-| Week 4 | Group Functions              | 🔜 Upcoming  |
-| Week 5 | Subqueries                   | 🔜 Upcoming  |
-| Week 6 | DML                          | 🔜 Upcoming  |
-| Week 7 | DDL                          | 🔜 Upcoming  |
-| Week 8 | Constraints                  | 🔜 Upcoming  |
-| Week 9 | Views                        | 🔜 Upcoming  |
+| Week 4 | Group Functions              | ✅ Complete  |
+| Week 5 | Subqueries                   | ✅ Complete  |
+| Week 6 | DML                          | ✅ Complete  |
+| Week 7 | Views                        | ✅ Complete  |
+| Week 8 | DDL                          | ✅ Complete  |
+| Week 9 | Constraints                  | ✅ Complete  |
 
 
 > This table is updated as new labs are completed.
@@ -127,4 +127,4 @@ These solutions are shared for **learning and reference purposes only**.
 If you are enrolled in the same or a similar course, please attempt the labs independently before consulting this repository. Academic honesty matters.
 
 
-*Last updated: June 2026*
+*Last updated: July 2026*
