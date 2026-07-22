@@ -1,4 +1,4 @@
-# Week 09 - Data Definition Language (DDL)
+# Week 08 - Data Definition Language (DDL)
 
 ## Overview
 
